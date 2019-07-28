@@ -1,6 +1,6 @@
-# copys
+# jingxi
 
-> 在线商城
+> 京西商城
 
 ## Build Setup
 
