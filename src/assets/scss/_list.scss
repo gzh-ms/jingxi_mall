@@ -1,0 +1,25 @@
+@import 'mixins';
+
+.g-list {
+  padding-left: 10px;
+  background-color: #fff;
+
+  &-item {
+    overflow: hidden;
+    @include flex-between();
+    height: 44px;
+    padding-right: 10px;
+    border-bottom: 1px solid $border-color;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &-text {
+    flex: 1;
+    line-height: 1.5;
+    @include ellipsis();
+    color: #686868;
+  }
+}
