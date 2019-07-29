@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# install jsonp
+npm install --save jsonp
+
 # serve with hot reload at localhost:8080
 npm run dev
 
