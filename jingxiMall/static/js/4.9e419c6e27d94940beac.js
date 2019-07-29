@@ -1,0 +1,2 @@
+webpackJsonp([4],{qcrO:function(t,e){},taF9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"product"},[this._v("有待完善，敬请期待")])},staticRenderFns:[]};var c=n("C7Lr")({name:"Product",data:function(){return{}},components:{}},r,!1,function(t){n("qcrO")},"data-v-bb29b222",null);e.default=c.exports}});
+//# sourceMappingURL=4.9e419c6e27d94940beac.js.map
