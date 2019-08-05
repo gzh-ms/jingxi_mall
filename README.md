@@ -2,6 +2,8 @@
 
 > 京西商城
 
+在线预览：http://25q80n5173.zicp.vip:25422/projects/jingxiMall/
+
 ## Build Setup
 
 ``` bash
